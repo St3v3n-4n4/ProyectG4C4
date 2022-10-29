@@ -8,9 +8,7 @@ Sistema de Gestión de Información WEB
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4/AnaPi_IoT) 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4/AnaPi_IoT)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4/AnaPi_IoT)
-
 [![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4/AnaPi_IoT)
-
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000&?logoWidth=40)](https://github.com/St3v3n-4n4/AnaPi_IoT)
 
 
