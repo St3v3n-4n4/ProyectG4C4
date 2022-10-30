@@ -23,6 +23,7 @@ Sistema de Gestión de Información WEB
 </div>
 
 <br>
+
 La empresa `Fly Emirates` nos ha contratado para desarrollar un sistema que le permita
 `gestionar la información relacionada con su plan de negocio` tras su llegada reciente a
 Colombia.
