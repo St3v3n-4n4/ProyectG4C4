@@ -1,6 +1,3 @@
-# ProyectG4C4
-Sistema de Gestión de Información WEB
-
 <div align="center">
 <h1> <b>Proyecto G4C4</b> </h1>
 
